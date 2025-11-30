@@ -1,10 +1,5 @@
-# Microstructural-Analysis-of-Polymer-Properties
-Maintaining this repository to record my UGP work during Aug'25 - Nov'25
-Below is a polished and concise README-style version that fits a GitHub repo. No personality tone added — just clean, professional writing.
 
----
-
-## UGP Project Summary – Hyperelastic Material Modelling
+## UGP Project Summary – Modeling and Simulation of Polymer Mechanical Properties
 
 This repository contains the work completed during the UGP for the semester. The project can be broadly divided into two components:
 
@@ -20,6 +15,3 @@ A detailed review of research papers on hyperelasticity was carried out to under
 
 The mismatch between simulation output and published findings raised questions about the reliability and applicability of different hyperelastic models. This emphasises the importance of evaluating not only the model itself but also the conditions under which it remains valid.
 
----
-
-If you want, I can also add sections like *Installation*, *Code Organization*, *How to Run Simulations*, *Results*, or *Future Work* based on your repo contents.
